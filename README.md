@@ -18,7 +18,7 @@ The Deep Learning course is taught over four days by Pierre Dossantos-Uzarralde 
 | 1 | Regression and gradient descent | ECS 1 and ECS 2 |
 | 2 | Single-layer perceptron and MLP | ECS 3 |
 | 3 | CNN and RNN | ECS 4 |
-| 4 | Final project | Oral presentation |
+| 4 | Final project | Oral presentation / Report Document|
 
 All deliverables are submitted as Jupyter notebooks (`.ipynb`) following the naming convention `studentname_ECS_nb_EDC_Gxx`.
 
