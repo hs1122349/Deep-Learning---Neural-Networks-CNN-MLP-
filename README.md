@@ -113,8 +113,8 @@ The deliverable is a single notebook telling the story end to end (data, baselin
 ## How to run
 
 ```bash
-git clone https://github.com/<hs1122349>/<this-repo>.git
-cd <this-repo>
+git clone https://github.com/<hs1122349>/<Deep-Learning---Neural-Networks-CNN-MLP->.git
+cd <Deep-Learning---Neural-Networks-CNN-MLP->
 python -m venv .venv && source .venv/bin/activate
 pip install numpy matplotlib scikit-learn torch torchvision pillow jupyter
 jupyter notebook
