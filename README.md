@@ -113,7 +113,7 @@ The deliverable is a single notebook telling the story end to end (data, baselin
 ## How to run
 
 ```bash
-git clone https://github.com/<your-username>/<this-repo>.git
+git clone https://github.com/<hs1122349>/<this-repo>.git
 cd <this-repo>
 python -m venv .venv && source .venv/bin/activate
 pip install numpy matplotlib scikit-learn torch torchvision pillow jupyter
